@@ -35,3 +35,5 @@ Demo video on: https://youtu.be/4f4DynoN4sQ
 <img width="1000" src="https://user-images.githubusercontent.com/119554730/206645901-2d27700a-fbea-4734-8562-99f783aabe88.jpg">
 
 <img width="600" src="https://user-images.githubusercontent.com/119554730/206646155-cccd0673-2e17-4234-a6c4-c46d62b21bc4.jpg">
+
+#### * The baffles on both sides of the shell can be customized after drawing pictures according to your needs in CAD, what I used was the free pcb fabrication service from JLCPCB
