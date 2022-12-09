@@ -30,7 +30,7 @@ Demo video on: https://youtu.be/4f4DynoN4sQ
 
 <img width="500" src="https://user-images.githubusercontent.com/119554730/206645272-bfc5dd87-e1ca-4369-b6e5-37923dd00b7a.jpg">
 
-# Connect these devices as shown below, install them into the aluminum alloy shell, and enjoy your DIY VU Bluetooth Soundbox! 
+# Connect these devices as shown below, adjust the output voltage of the DC-DC adjustable boost power module to 12V, install them into the aluminum alloy shell, and enjoy your DIY VU Bluetooth Soundbox! 
 
 <img width="1000" src="https://user-images.githubusercontent.com/119554730/206645901-2d27700a-fbea-4734-8562-99f783aabe88.jpg">
 
